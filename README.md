@@ -11,7 +11,9 @@ When constructing this portfolio we need to make sure to include slots for our f
 
 
 
-An example of what it should look like;
+
+My portfolio url; 
+  https://kevinrhidalgo.github.io/Homework-2-MySelfPortfolio/.
 
 
 
